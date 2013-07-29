@@ -1,5 +1,6 @@
 
-//  Palindrome Partition I
+//  Connect Next I
+//  http://leetcode.com/onlinejudge#question_116
 //  Author: Xiongjun Liang
 
 #include <iostream>
